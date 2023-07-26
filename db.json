@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "delivery-config": [
     {
       "id": 1,
       "market": "US",
@@ -7,6 +7,14 @@
       "ZipCode": "11-111",
       "DeliveryMethod": "HomeDelivery",
       "ShippingMethod": "Standard"
+    }
+    {
+      "id": 2,
+      "market": "US",
+      "State": "FL",
+      "ZipCode": "11-111",
+      "DeliveryMethod": "HomeDelivery",
+      "ShippingMethod": "Expedited"
     }
   ],
   "profile": {

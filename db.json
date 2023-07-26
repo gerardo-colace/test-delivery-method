@@ -1,14 +1,12 @@
 [
     {
         "Market": "US",
-        "State": "FL",
         "ZipCode": "11-111",
         "DeliveryMethod": "HomeDelivery",
         "ShippingMethod": "Standard"
     },
     {
         "Market": "US",
-        "State": "FL",
         "ZipCode": "11-111",
         "DeliveryMethod": "HomeDelivery",
         "ShippingMethod": "Expedited"

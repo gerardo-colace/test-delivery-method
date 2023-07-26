@@ -7,7 +7,7 @@
       "ZipCode": "11-111",
       "DeliveryMethod": "HomeDelivery",
       "ShippingMethod": "Standard"
-    }
+    },
     {
       "id": 2,
       "market": "US",

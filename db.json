@@ -16,6 +16,22 @@
         "ZipCode": "11-111",
         "DeliveryMethod": "HomeDelivery",
         "ShippingMethod": "Expedited"
+    },
+    {
+        "ID": 3,
+        "Market": "US",
+        "State": "FL",
+        "ZipCode": "11-111",
+        "DeliveryMethod": "HomeDelivery",
+        "ShippingMethod": "SameDay"
+    },
+    {
+        "ID": 4,
+        "Market": "US",
+        "State": "FL",
+        "ZipCode": "11-111",
+        "DeliveryMethod": "Click&Collect",
+        "ShippingMethod": "Click&Collect"
     }
 ]
 }

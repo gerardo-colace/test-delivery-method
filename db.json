@@ -1,6 +1,7 @@
 {
-  "posts": [
-{
+"posts": 
+[
+    {
         "ID": 1,
         "Market": "US",
         "State": "FL",
@@ -16,120 +17,12 @@
         "DeliveryMethod": "HomeDelivery",
         "ShippingMethod": "Expedited"
     },
-    {
-        "ID": 3,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-111",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "SameDay"
-    },
-    {
-        "ID": 4,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-111",
-        "DeliveryMethod": "Click&Collect",
-        "ShippingMethod": "Click&Collect"
-    },
-    {
-        "ID": 5,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-112",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Standard"
-    },
-    {
-        "ID": 6,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-112",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Expedited"
-    },
-    {
-        "ID": 7,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-112",
-        "DeliveryMethod": "Click&Collect",
-        "ShippingMethod": "Click&Collect"
-    },
-    {
-        "ID": 8,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "11-113",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Standard"
-    },
-    {
-        "ID": 9,
-        "Market": "US",
-        "State": "FL",
-        "ZipCode": "22-222",
-        "DeliveryMethod": "NoDelivery",
-        "ShippingMethod": null
-    },
-    {
-        "ID": 10,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "33-333",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Standard"
-    },
-    {
-        "ID": 11,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "33-333",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Expedited"
-    },
-    {
-        "ID": 12,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "33-333",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "SameDay"
-    },
-    {
-        "ID": 13,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "33-334",
-        "DeliveryMethod": "HomeDelivery",
-        "ShippingMethod": "Standard"
-    },
-    {
-        "ID": 14,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "44-444",
-        "DeliveryMethod": "NoDelivery",
-        "ShippingMethod": null
-    },
-    {
-        "ID": 15,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "55-555",
-        "DeliveryMethod": "NoDelivery",
-        "ShippingMethod": null
-    },
-    {
-        "ID": 16,
-        "Market": "US",
-        "State": "TX",
-        "ZipCode": "66-666",
-        "DeliveryMethod": "NoDelivery",
-        "ShippingMethod": null
-    }
   
-  "profile": {
-    "name": "typicode"
-  }
+    {
+    "profile": 
+        {
+        "name": "typicode"
+        }
+    }
+]
 }

@@ -16,13 +16,6 @@
         "ZipCode": "11-111",
         "DeliveryMethod": "HomeDelivery",
         "ShippingMethod": "Expedited"
-    },
-  
-    {
-    "profile": 
-        {
-        "name": "typicode"
-        }
     }
 ]
 }
